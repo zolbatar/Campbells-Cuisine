@@ -1,0 +1,3 @@
+The fixed folder contains the original modified slightly to compile with Micro Focus Cobol (not sure which version though).
+
+It is possible to compile and run it, as I've made a CAMP.EXE from the source which runs without error.
