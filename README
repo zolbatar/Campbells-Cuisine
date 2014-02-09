@@ -1,3 +1,7 @@
+This was my first app done for somebody else - a COBOL program written when I was 15 :)
+
+It was an order entry/management system for a company called Campbell's Cuisine.
+
 The fixed folder contains the original modified slightly to compile with Micro Focus Cobol (not sure which version though).
 
 It is possible to compile and run it, as I've made a CAMP.EXE from the source which runs without error.
